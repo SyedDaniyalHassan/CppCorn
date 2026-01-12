@@ -12,9 +12,9 @@ Bridge::~Bridge() {}
 
 void Bridge::listen() {
     ipc_socket_ = core::Socket(INVALID_SOCKET_VAL); // Create new
-    ipc_socket_.bind("127.0.0.1", 8001);
+    ipc_socket_.bind("127.0.0.1", 8005);
     ipc_socket_.listen();
-    fmt::print("Bridge listening on 127.0.0.1:8001 for Workers...\n");
+    fmt::print("Bridge listening on 127.0.0.1:8005 for Workers...\n");
 }
 
 void Bridge::accept_worker() {
