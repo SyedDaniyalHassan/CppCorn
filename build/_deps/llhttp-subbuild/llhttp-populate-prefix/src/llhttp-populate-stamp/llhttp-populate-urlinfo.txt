@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/nodejs/llhttp/archive/refs/tags/release/v9.1.3.tar.gz'
+tag=''

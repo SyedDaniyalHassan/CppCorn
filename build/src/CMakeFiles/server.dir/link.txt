@@ -1,0 +1,2 @@
+C:\Users\daniyal.hassan\scoop\apps\mingw\current\bin\ar.exe qc libserver.a CMakeFiles/server.dir/server.cpp.obj
+C:\Users\daniyal.hassan\scoop\apps\mingw\current\bin\ranlib.exe libserver.a

@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\llhttp_shared.dir/objects.a
+C:\Users\daniyal.hassan\scoop\apps\mingw\current\bin\ar.exe cr CMakeFiles\llhttp_shared.dir/objects.a @CMakeFiles\llhttp_shared.dir\objects1.rsp
+C:\Users\daniyal.hassan\scoop\apps\mingw\current\bin\gcc.exe -g -shared -o libllhttp.dll -Wl,--out-implib,libllhttp.dll.a -Wl,--major-image-version,9,--minor-image-version,1 -Wl,--whole-archive CMakeFiles\llhttp_shared.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\llhttp_shared.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cppcorn.dir/objects.a
+C:\Users\daniyal.hassan\scoop\apps\mingw\current\bin\ar.exe cr CMakeFiles\cppcorn.dir/objects.a @CMakeFiles\cppcorn.dir\objects1.rsp
+C:\Users\daniyal.hassan\scoop\apps\mingw\current\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\cppcorn.dir/objects.a -Wl,--no-whole-archive -o cppcorn.exe -Wl,--out-implib,libcppcorn.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cppcorn.dir\linklibs.rsp

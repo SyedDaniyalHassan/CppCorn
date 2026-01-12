@@ -1,0 +1,984 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake:212 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.19045 - AMD64
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:462 (find_file)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "file"
+    variable: "src_in"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "CMakeCXXCompilerId.cpp.in"
+    candidate_directories:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/"
+    found: "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeCXXCompilerId.cpp.in"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin"
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Google\\Google Apps Sync\\"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:\\Program Files (x86)\\Microsoft SQL Server\\130\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Microsoft SQL Server\\130\\DTS\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\130\\DTS\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\130\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Microsoft SQL Server\\160\\DTS\\Binn\\"
+        - "C:\\Program Files\\Azure Data Studio\\bin"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin"
+        - "c:\\Users\\daniyal.hassan\\scoop\\apps\\cursor\\1.4.3\\resources\\app\\codeBin"
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\nvm\\current"
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\nvm\\1.2.2\\nodejs\\v22.18.0"
+        - "C:\\Users\\daniyal.hassan\\scoop\\shims"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\Git\\cmd"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\JetBrains\\Toolbox\\scripts"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\Ollama"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\ProgramData\\daniyal.hassan\\GitHubDesktop\\bin"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/cppcorn"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/g++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+      
+      The CXX compiler identification is GNU, found in:
+        C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/4.1.2/CompilerIdCXX/a.exe
+      
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_TAPI"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "tapi"
+    candidate_directories:
+      - "C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/Google/Google Apps Sync/"
+      - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files (x86)/Microsoft SQL Server/130/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/130/Tools/Binn/"
+      - "C:/Program Files (x86)/Microsoft SQL Server/130/DTS/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/130/DTS/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/130/Tools/Binn/"
+      - "C:/Program Files (x86)/Microsoft SQL Server/160/DTS/Binn/"
+      - "C:/Program Files/Azure Data Studio/bin/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/PuTTY/"
+      - "C:/Program Files/Docker/Docker/resources/bin/"
+      - "C:/Users/daniyal.hassan/scoop/apps/cursor/1.4.3/resources/app/codeBin/"
+      - "C:/Users/daniyal.hassan/scoop/apps/nvm/current/"
+      - "C:/Users/daniyal.hassan/scoop/apps/nvm/1.2.2/nodejs/v22.18.0/"
+      - "C:/Users/daniyal.hassan/scoop/shims/"
+      - "C:/Users/daniyal.hassan/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Git/cmd/"
+      - "C:/Users/daniyal.hassan/AppData/Local/JetBrains/Toolbox/scripts/"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Ollama/"
+      - "C:/Users/daniyal.hassan/AppData/Local/GitHubDesktop/bin/"
+      - "C:/ProgramData/daniyal.hassan/GitHubDesktop/bin/"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/cursor/resources/app/bin/"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Antigravity/bin/"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/"
+    searched_directories:
+      - "C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/tapi.com"
+      - "C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/tapi.exe"
+      - "C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/tapi"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/tapi.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/tapi.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/tapi"
+      - "C:/Windows/System32/tapi.com"
+      - "C:/Windows/System32/tapi.exe"
+      - "C:/Windows/System32/tapi"
+      - "C:/Windows/tapi.com"
+      - "C:/Windows/tapi.exe"
+      - "C:/Windows/tapi"
+      - "C:/Windows/System32/wbem/tapi.com"
+      - "C:/Windows/System32/wbem/tapi.exe"
+      - "C:/Windows/System32/wbem/tapi"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/tapi.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/tapi.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/tapi"
+      - "C:/Windows/System32/OpenSSH/tapi.com"
+      - "C:/Windows/System32/OpenSSH/tapi.exe"
+      - "C:/Windows/System32/OpenSSH/tapi"
+      - "C:/Program Files/Google/Google Apps Sync/tapi.com"
+      - "C:/Program Files/Google/Google Apps Sync/tapi.exe"
+      - "C:/Program Files/Google/Google Apps Sync/tapi"
+      - "C:/Program Files/TortoiseSVN/bin/tapi.com"
+      - "C:/Program Files/TortoiseSVN/bin/tapi.exe"
+      - "C:/Program Files/TortoiseSVN/bin/tapi"
+      - "C:/Program Files (x86)/Microsoft SQL Server/130/Tools/Binn/tapi.com"
+      - "C:/Program Files (x86)/Microsoft SQL Server/130/Tools/Binn/tapi.exe"
+      - "C:/Program Files (x86)/Microsoft SQL Server/130/Tools/Binn/tapi"
+      - "C:/Program Files/Microsoft SQL Server/130/Tools/Binn/tapi.com"
+      - "C:/Program Files/Microsoft SQL Server/130/Tools/Binn/tapi.exe"
+      - "C:/Program Files/Microsoft SQL Server/130/Tools/Binn/tapi"
+      - "C:/Program Files (x86)/Microsoft SQL Server/130/DTS/Binn/tapi.com"
+      - "C:/Program Files (x86)/Microsoft SQL Server/130/DTS/Binn/tapi.exe"
+      - "C:/Program Files (x86)/Microsoft SQL Server/130/DTS/Binn/tapi"
+      - "C:/Program Files/Microsoft SQL Server/130/DTS/Binn/tapi.com"
+      - "C:/Program Files/Microsoft SQL Server/130/DTS/Binn/tapi.exe"
+      - "C:/Program Files/Microsoft SQL Server/130/DTS/Binn/tapi"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/130/Tools/Binn/tapi.com"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/130/Tools/Binn/tapi.exe"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/130/Tools/Binn/tapi"
+      - "C:/Program Files (x86)/Microsoft SQL Server/160/DTS/Binn/tapi.com"
+      - "C:/Program Files (x86)/Microsoft SQL Server/160/DTS/Binn/tapi.exe"
+      - "C:/Program Files (x86)/Microsoft SQL Server/160/DTS/Binn/tapi"
+      - "C:/Program Files/Azure Data Studio/bin/tapi.com"
+      - "C:/Program Files/Azure Data Studio/bin/tapi.exe"
+      - "C:/Program Files/Azure Data Studio/bin/tapi"
+      - "C:/Program Files/dotnet/tapi.com"
+      - "C:/Program Files/dotnet/tapi.exe"
+      - "C:/Program Files/dotnet/tapi"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/tapi.com"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/tapi.exe"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/tapi"
+      - "C:/Program Files/PuTTY/tapi.com"
+      - "C:/Program Files/PuTTY/tapi.exe"
+      - "C:/Program Files/PuTTY/tapi"
+      - "C:/Program Files/Docker/Docker/resources/bin/tapi.com"
+      - "C:/Program Files/Docker/Docker/resources/bin/tapi.exe"
+      - "C:/Program Files/Docker/Docker/resources/bin/tapi"
+      - "C:/Users/daniyal.hassan/scoop/apps/cursor/1.4.3/resources/app/codeBin/tapi.com"
+      - "C:/Users/daniyal.hassan/scoop/apps/cursor/1.4.3/resources/app/codeBin/tapi.exe"
+      - "C:/Users/daniyal.hassan/scoop/apps/cursor/1.4.3/resources/app/codeBin/tapi"
+      - "C:/Users/daniyal.hassan/scoop/apps/nvm/current/tapi.com"
+      - "C:/Users/daniyal.hassan/scoop/apps/nvm/current/tapi.exe"
+      - "C:/Users/daniyal.hassan/scoop/apps/nvm/current/tapi"
+      - "C:/Users/daniyal.hassan/scoop/apps/nvm/1.2.2/nodejs/v22.18.0/tapi.com"
+      - "C:/Users/daniyal.hassan/scoop/apps/nvm/1.2.2/nodejs/v22.18.0/tapi.exe"
+      - "C:/Users/daniyal.hassan/scoop/apps/nvm/1.2.2/nodejs/v22.18.0/tapi"
+      - "C:/Users/daniyal.hassan/scoop/shims/tapi.com"
+      - "C:/Users/daniyal.hassan/scoop/shims/tapi.exe"
+      - "C:/Users/daniyal.hassan/scoop/shims/tapi"
+      - "C:/Users/daniyal.hassan/AppData/Local/Microsoft/WindowsApps/tapi.com"
+      - "C:/Users/daniyal.hassan/AppData/Local/Microsoft/WindowsApps/tapi.exe"
+      - "C:/Users/daniyal.hassan/AppData/Local/Microsoft/WindowsApps/tapi"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Microsoft VS Code/bin/tapi.com"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Microsoft VS Code/bin/tapi.exe"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Microsoft VS Code/bin/tapi"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Git/cmd/tapi.com"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Git/cmd/tapi.exe"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Git/cmd/tapi"
+      - "C:/Users/daniyal.hassan/AppData/Local/JetBrains/Toolbox/scripts/tapi.com"
+      - "C:/Users/daniyal.hassan/AppData/Local/JetBrains/Toolbox/scripts/tapi.exe"
+      - "C:/Users/daniyal.hassan/AppData/Local/JetBrains/Toolbox/scripts/tapi"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Ollama/tapi.com"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Ollama/tapi.exe"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Ollama/tapi"
+      - "C:/Users/daniyal.hassan/AppData/Local/GitHubDesktop/bin/tapi.com"
+      - "C:/Users/daniyal.hassan/AppData/Local/GitHubDesktop/bin/tapi.exe"
+      - "C:/Users/daniyal.hassan/AppData/Local/GitHubDesktop/bin/tapi"
+      - "C:/ProgramData/daniyal.hassan/GitHubDesktop/bin/tapi.com"
+      - "C:/ProgramData/daniyal.hassan/GitHubDesktop/bin/tapi.exe"
+      - "C:/ProgramData/daniyal.hassan/GitHubDesktop/bin/tapi"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/cursor/resources/app/bin/tapi.com"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/cursor/resources/app/bin/tapi.exe"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/cursor/resources/app/bin/tapi"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Antigravity/bin/tapi.com"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Antigravity/bin/tapi.exe"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/Antigravity/bin/tapi"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/tapi.com"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/tapi.exe"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/tapi"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin"
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Google\\Google Apps Sync\\"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:\\Program Files (x86)\\Microsoft SQL Server\\130\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Microsoft SQL Server\\130\\DTS\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\130\\DTS\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\130\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Microsoft SQL Server\\160\\DTS\\Binn\\"
+        - "C:\\Program Files\\Azure Data Studio\\bin"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin"
+        - "c:\\Users\\daniyal.hassan\\scoop\\apps\\cursor\\1.4.3\\resources\\app\\codeBin"
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\nvm\\current"
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\nvm\\1.2.2\\nodejs\\v22.18.0"
+        - "C:\\Users\\daniyal.hassan\\scoop\\shims"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\Git\\cmd"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\JetBrains\\Toolbox\\scripts"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\Ollama"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\ProgramData\\daniyal.hassan\\GitHubDesktop\\bin"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/cppcorn"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:462 (find_file)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "file"
+    variable: "src_in"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "CMakeCCompilerId.c.in"
+    candidate_directories:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/"
+    found: "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeCCompilerId.c.in"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin"
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Google\\Google Apps Sync\\"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:\\Program Files (x86)\\Microsoft SQL Server\\130\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Microsoft SQL Server\\130\\DTS\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\130\\DTS\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\130\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Microsoft SQL Server\\160\\DTS\\Binn\\"
+        - "C:\\Program Files\\Azure Data Studio\\bin"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\PuTTY\\"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin"
+        - "c:\\Users\\daniyal.hassan\\scoop\\apps\\cursor\\1.4.3\\resources\\app\\codeBin"
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\nvm\\current"
+        - "C:\\Users\\daniyal.hassan\\scoop\\apps\\nvm\\1.2.2\\nodejs\\v22.18.0"
+        - "C:\\Users\\daniyal.hassan\\scoop\\shims"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\Git\\cmd"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\JetBrains\\Toolbox\\scripts"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\Ollama"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\ProgramData\\daniyal.hassan\\GitHubDesktop\\bin"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/cppcorn"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/gcc.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+      
+      The C compiler identification is GNU, found in:
+        C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/4.1.2/CompilerIdC/a.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-jr2qc1"
+      binary: "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-jr2qc1"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-jr2qc1'
+        
+        Run Build Command(s): C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/cmake.exe -E env VERBOSE=1 C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/mingw32-make.exe -f Makefile cmTC_1ed40/fast
+        C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_1ed40.dir\\build.make CMakeFiles/cmTC_1ed40.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-jr2qc1'
+        Building CXX object CMakeFiles/cmTC_1ed40.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_1ed40.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp
+        Using built-in specs.
+        COLLECT_GCC=C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe
+        Target: x86_64-w64-mingw32
+        Configured with: ../../../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https://github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe --with-boot-ldflags='-pipe -fno-ident -L/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/opt/lib -L/c/buildroot/prerequisites/x86_64-zlib-static/lib -L/c/buildroot/prerequisites/x86_64-w64-mingw32-static/lib  -Wl,--disable-dynamicbase -static-libstdc++ -static-libgcc'
+        Thread model: posix
+        Supported LTO compression algorithms: zlib
+        gcc version 15.2.0 (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1ed40.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1ed40.dir\\'
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_1ed40.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\ccXP63xU.s
+        GNU C++17 (x86_64-posix-seh-rev0, Built by MinGW-Builds project) version 15.2.0 (x86_64-w64-mingw32)
+        	compiled by GNU C version 15.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.27-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++"
+        ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32"
+        ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/backward"
+        ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include"
+        ignoring nonexistent directory "C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64D:/a/_temp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include"
+        ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"
+        ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include"
+        ignoring nonexistent directory "C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/mingw/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/backward
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include
+        End of search list.
+        Compiler executable checksum: 16480fb9f9028210c6ec16d0348cc38c
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1ed40.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1ed40.dir\\'
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_1ed40.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\ccXP63xU.s
+        GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45
+        COMPILER_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
+        LIBRARY_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1ed40.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1ed40.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_1ed40.exe
+        C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_1ed40.dir\\link.txt --verbose=1
+        Using built-in specs.
+        COLLECT_GCC=C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe
+        COLLECT_LTO_WRAPPER=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
+        Target: x86_64-w64-mingw32
+        Configured with: ../../../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https://github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe --with-boot-ldflags='-pipe -fno-ident -L/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/opt/lib -L/c/buildroot/prerequisites/x86_64-zlib-static/lib -L/c/buildroot/prerequisites/x86_64-w64-mingw32-static/lib  -Wl,--disable-dynamicbase -static-libstdc++ -static-libgcc'
+        Thread model: posix
+        Supported LTO compression algorithms: zlib
+        gcc version 15.2.0 (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 
+        COMPILER_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
+        LIBRARY_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1ed40.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_1ed40.'
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\cc7ch4W0.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_1ed40.exe C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_1ed40.dir/objects.a --no-whole-archive --out-implib libcmTC_1ed40.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        collect2 version 15.2.0
+        C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\cc7ch4W0.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_1ed40.exe C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_1ed40.dir/objects.a --no-whole-archive --out-implib libcmTC_1ed40.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        GNU ld (GNU Binutils) 2.45
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1ed40.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_1ed40.'
+        C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_1ed40.dir/objects.a
+        C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\ar.exe qc CMakeFiles\\cmTC_1ed40.dir/objects.a @CMakeFiles\\cmTC_1ed40.dir\\objects1.rsp
+        C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_1ed40.dir/objects.a -Wl,--no-whole-archive -o cmTC_1ed40.exe -Wl,--out-implib,libcmTC_1ed40.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-jr2qc1'
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:217 (message)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++]
+          add: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32]
+          add: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/backward]
+          add: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include]
+          add: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
+          add: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include]
+        end of search list found
+        collapse include dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++]
+        collapse include dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32]
+        collapse include dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/backward] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/backward]
+        collapse include dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include]
+        collapse include dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
+        collapse include dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/include]
+        implicit include dirs: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/backward;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:253 (message)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
+        ignore line: [Change Dir: 'C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-jr2qc1']
+        ignore line: []
+        ignore line: [Run Build Command(s): C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/cmake.exe -E env VERBOSE=1 C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/mingw32-make.exe -f Makefile cmTC_1ed40/fast]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_1ed40.dir\\build.make CMakeFiles/cmTC_1ed40.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-jr2qc1']
+        ignore line: [Building CXX object CMakeFiles/cmTC_1ed40.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_1ed40.dir\\CMakeCXXCompilerABI.cpp.obj -c C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe]
+        ignore line: [Target: x86_64-w64-mingw32]
+        ignore line: [Configured with: ../../../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https://github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe --with-boot-ldflags='-pipe -fno-ident -L/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/opt/lib -L/c/buildroot/prerequisites/x86_64-zlib-static/lib -L/c/buildroot/prerequisites/x86_64-w64-mingw32-static/lib  -Wl,--disable-dynamicbase -static-libstdc++ -static-libgcc']
+        ignore line: [Thread model: posix]
+        ignore line: [Supported LTO compression algorithms: zlib]
+        ignore line: [gcc version 15.2.0 (x86_64-posix-seh-rev0  Built by MinGW-Builds project) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1ed40.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1ed40.dir\\']
+        ignore line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_1ed40.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\ccXP63xU.s]
+        ignore line: [GNU C++17 (x86_64-posix-seh-rev0  Built by MinGW-Builds project) version 15.2.0 (x86_64-w64-mingw32)]
+        ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.27-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++"]
+        ignore line: [ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32"]
+        ignore line: [ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/backward"]
+        ignore line: [ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include"]
+        ignore line: [ignoring nonexistent directory "C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64D:/a/_temp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include"]
+        ignore line: [ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"]
+        ignore line: [ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include"]
+        ignore line: [ignoring nonexistent directory "C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/mingw/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++]
+        ignore line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32]
+        ignore line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/backward]
+        ignore line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include]
+        ignore line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
+        ignore line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include]
+        ignore line: [End of search list.]
+        ignore line: [Compiler executable checksum: 16480fb9f9028210c6ec16d0348cc38c]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1ed40.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1ed40.dir\\']
+        ignore line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_1ed40.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\ccXP63xU.s]
+        ignore line: [GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45]
+        ignore line: [COMPILER_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/]
+        ignore line: [LIBRARY_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1ed40.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1ed40.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_1ed40.exe]
+        ignore line: [C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_1ed40.dir\\link.txt --verbose=1]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe]
+        ignore line: [COLLECT_LTO_WRAPPER=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe]
+        ignore line: [Target: x86_64-w64-mingw32]
+        ignore line: [Configured with: ../../../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https://github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe --with-boot-ldflags='-pipe -fno-ident -L/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/opt/lib -L/c/buildroot/prerequisites/x86_64-zlib-static/lib -L/c/buildroot/prerequisites/x86_64-w64-mingw32-static/lib  -Wl,--disable-dynamicbase -static-libstdc++ -static-libgcc']
+        ignore line: [Thread model: posix]
+        ignore line: [Supported LTO compression algorithms: zlib]
+        ignore line: [gcc version 15.2.0 (x86_64-posix-seh-rev0  Built by MinGW-Builds project) ]
+        ignore line: [COMPILER_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/]
+        ignore line: [LIBRARY_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1ed40.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_1ed40.']
+        link line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\cc7ch4W0.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_1ed40.exe C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_1ed40.dir/objects.a --no-whole-archive --out-implib libcmTC_1ed40.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+          arg [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe] ==> ignore
+          arg [-plugin] ==> ignore
+          arg [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll] ==> ignore
+          arg [-plugin-opt=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\cc7ch4W0.res] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
+          arg [-plugin-opt=-pass-through=-ladvapi32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lshell32] ==> ignore
+          arg [-plugin-opt=-pass-through=-luser32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-liconv] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [--sysroot=C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64] ==> ignore
+          arg [-m] ==> ignore
+          arg [i386pep] ==> ignore
+          arg [-Bdynamic] ==> search dynamic
+          arg [-o] ==> ignore
+          arg [cmTC_1ed40.exe] ==> ignore
+          arg [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
+          arg [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> obj [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
+          arg [-LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0]
+          arg [-LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc] ==> dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc]
+          arg [-LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib]
+          arg [-LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib] ==> dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib]
+          arg [-LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib] ==> dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib]
+          arg [-LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..]
+          arg [-v] ==> ignore
+          arg [--whole-archive] ==> ignore
+          arg [CMakeFiles\\cmTC_1ed40.dir/objects.a] ==> ignore
+          arg [--no-whole-archive] ==> ignore
+          arg [--out-implib] ==> ignore
+          arg [libcmTC_1ed40.dll.a] ==> ignore
+          arg [--major-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [--minor-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [-lstdc++] ==> lib [stdc++]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc_s] ==> lib [gcc_s]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lpthread] ==> lib [pthread]
+          arg [-ladvapi32] ==> lib [advapi32]
+          arg [-lshell32] ==> lib [shell32]
+          arg [-luser32] ==> lib [user32]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-liconv] ==> lib [iconv]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc_s] ==> lib [gcc_s]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> obj [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        linker tool for 'CXX': ../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https:/github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe
+        remove lib [msvcrt]
+        remove lib [msvcrt]
+        collapse obj [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/lib/crt2.o]
+        collapse obj [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
+        collapse obj [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        collapse library dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0]
+        collapse library dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc]
+        collapse library dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib]
+        collapse library dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib]
+        implicit libs: [stdc++;mingw32;gcc_s;gcc;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;iconv;mingw32;gcc_s;gcc;mingwex;kernel32]
+        implicit objs: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/lib/crt2.o;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        implicit dirs: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/lib;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib]
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the CXX compiler's linker: "../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https:/github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe" "-v"
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the CXX compiler's linker: "../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https:/github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe" "-V"
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the CXX compiler's linker: "../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https:/github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe" "--version"
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-dif7mo"
+      binary: "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-dif7mo"
+    cmakeVariables:
+      CMAKE_C_FLAGS: ""
+      CMAKE_C_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-dif7mo'
+        
+        Run Build Command(s): C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/cmake.exe -E env VERBOSE=1 C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/mingw32-make.exe -f Makefile cmTC_e09e0/fast
+        C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_e09e0.dir\\build.make CMakeFiles/cmTC_e09e0.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-dif7mo'
+        Building C object CMakeFiles/cmTC_e09e0.dir/CMakeCCompilerABI.c.obj
+        C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_e09e0.dir\\CMakeCCompilerABI.c.obj -c C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c
+        Using built-in specs.
+        COLLECT_GCC=C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\gcc.exe
+        Target: x86_64-w64-mingw32
+        Configured with: ../../../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https://github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe --with-boot-ldflags='-pipe -fno-ident -L/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/opt/lib -L/c/buildroot/prerequisites/x86_64-zlib-static/lib -L/c/buildroot/prerequisites/x86_64-w64-mingw32-static/lib  -Wl,--disable-dynamicbase -static-libstdc++ -static-libgcc'
+        Thread model: posix
+        Supported LTO compression algorithms: zlib
+        gcc version 15.2.0 (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_e09e0.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_e09e0.dir\\'
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_e09e0.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\cc3e0LCe.s
+        GNU C23 (x86_64-posix-seh-rev0, Built by MinGW-Builds project) version 15.2.0 (x86_64-w64-mingw32)
+        	compiled by GNU C version 15.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.27-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include"
+        ignoring nonexistent directory "C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64D:/a/_temp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include"
+        ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"
+        ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include"
+        ignoring nonexistent directory "C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/mingw/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include
+        End of search list.
+        Compiler executable checksum: 42dedad6f6703bf8cc60e5bdef868538
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_e09e0.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_e09e0.dir\\'
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_e09e0.dir\\CMakeCCompilerABI.c.obj C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\cc3e0LCe.s
+        GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45
+        COMPILER_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
+        LIBRARY_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_e09e0.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_e09e0.dir\\CMakeCCompilerABI.c.'
+        Linking C executable cmTC_e09e0.exe
+        C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_e09e0.dir\\link.txt --verbose=1
+        Using built-in specs.
+        COLLECT_GCC=C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\gcc.exe
+        COLLECT_LTO_WRAPPER=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
+        Target: x86_64-w64-mingw32
+        Configured with: ../../../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https://github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe --with-boot-ldflags='-pipe -fno-ident -L/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/opt/lib -L/c/buildroot/prerequisites/x86_64-zlib-static/lib -L/c/buildroot/prerequisites/x86_64-w64-mingw32-static/lib  -Wl,--disable-dynamicbase -static-libstdc++ -static-libgcc'
+        Thread model: posix
+        Supported LTO compression algorithms: zlib
+        gcc version 15.2.0 (x86_64-posix-seh-rev0, Built by MinGW-Builds project) 
+        COMPILER_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
+        LIBRARY_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e09e0.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_e09e0.'
+         C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\cco76Pya.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_e09e0.exe C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_e09e0.dir/objects.a --no-whole-archive --out-implib libcmTC_e09e0.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        collect2 version 15.2.0
+        C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\cco76Pya.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_e09e0.exe C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_e09e0.dir/objects.a --no-whole-archive --out-implib libcmTC_e09e0.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        GNU ld (GNU Binutils) 2.45
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e09e0.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_e09e0.'
+        C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E rm -f CMakeFiles\\cmTC_e09e0.dir/objects.a
+        C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\ar.exe qc CMakeFiles\\cmTC_e09e0.dir/objects.a @CMakeFiles\\cmTC_e09e0.dir\\objects1.rsp
+        C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\gcc.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_e09e0.dir/objects.a -Wl,--no-whole-archive -o cmTC_e09e0.exe -Wl,--out-implib,libcmTC_e09e0.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-dif7mo'
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:217 (message)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed C implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include]
+          add: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
+          add: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include]
+        end of search list found
+        collapse include dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include]
+        collapse include dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
+        collapse include dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/include]
+        implicit include dirs: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:253 (message)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
+        ignore line: [Change Dir: 'C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-dif7mo']
+        ignore line: []
+        ignore line: [Run Build Command(s): C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/cmake.exe -E env VERBOSE=1 C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/mingw32-make.exe -f Makefile cmTC_e09e0/fast]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/current/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_e09e0.dir\\build.make CMakeFiles/cmTC_e09e0.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/CMakeFiles/CMakeScratch/TryCompile-dif7mo']
+        ignore line: [Building C object CMakeFiles/cmTC_e09e0.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_e09e0.dir\\CMakeCCompilerABI.c.obj -c C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\gcc.exe]
+        ignore line: [Target: x86_64-w64-mingw32]
+        ignore line: [Configured with: ../../../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https://github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe --with-boot-ldflags='-pipe -fno-ident -L/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/opt/lib -L/c/buildroot/prerequisites/x86_64-zlib-static/lib -L/c/buildroot/prerequisites/x86_64-w64-mingw32-static/lib  -Wl,--disable-dynamicbase -static-libstdc++ -static-libgcc']
+        ignore line: [Thread model: posix]
+        ignore line: [Supported LTO compression algorithms: zlib]
+        ignore line: [gcc version 15.2.0 (x86_64-posix-seh-rev0  Built by MinGW-Builds project) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_e09e0.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_e09e0.dir\\']
+        ignore line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_e09e0.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=core2 -march=nocona -version -o C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\cc3e0LCe.s]
+        ignore line: [GNU C23 (x86_64-posix-seh-rev0  Built by MinGW-Builds project) version 15.2.0 (x86_64-w64-mingw32)]
+        ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.27-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include"]
+        ignore line: [ignoring nonexistent directory "C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64D:/a/_temp/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include"]
+        ignore line: [ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"]
+        ignore line: [ignoring duplicate directory "C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include"]
+        ignore line: [ignoring nonexistent directory "C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/mingw/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include]
+        ignore line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
+        ignore line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include]
+        ignore line: [End of search list.]
+        ignore line: [Compiler executable checksum: 42dedad6f6703bf8cc60e5bdef868538]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_e09e0.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_e09e0.dir\\']
+        ignore line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_e09e0.dir\\CMakeCCompilerABI.c.obj C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\cc3e0LCe.s]
+        ignore line: [GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45]
+        ignore line: [COMPILER_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/]
+        ignore line: [LIBRARY_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_e09e0.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_e09e0.dir\\CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_e09e0.exe]
+        ignore line: [C:\\Users\\daniyal.hassan\\AppData\\Local\\Programs\\CLion\\bin\\cmake\\win\\x64\\bin\\cmake.exe -E cmake_link_script CMakeFiles\\cmTC_e09e0.dir\\link.txt --verbose=1]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\gcc.exe]
+        ignore line: [COLLECT_LTO_WRAPPER=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe]
+        ignore line: [Target: x86_64-w64-mingw32]
+        ignore line: [Configured with: ../../../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https://github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe --with-boot-ldflags='-pipe -fno-ident -L/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/opt/lib -L/c/buildroot/prerequisites/x86_64-zlib-static/lib -L/c/buildroot/prerequisites/x86_64-w64-mingw32-static/lib  -Wl,--disable-dynamicbase -static-libstdc++ -static-libgcc']
+        ignore line: [Thread model: posix]
+        ignore line: [Supported LTO compression algorithms: zlib]
+        ignore line: [gcc version 15.2.0 (x86_64-posix-seh-rev0  Built by MinGW-Builds project) ]
+        ignore line: [COMPILER_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/]
+        ignore line: [LIBRARY_PATH=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_e09e0.exe' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_e09e0.']
+        link line: [ C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\cco76Pya.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 -m i386pep -Bdynamic -o cmTC_e09e0.exe C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_e09e0.dir/objects.a --no-whole-archive --out-implib libcmTC_e09e0.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+          arg [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe] ==> ignore
+          arg [-plugin] ==> ignore
+          arg [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll] ==> ignore
+          arg [-plugin-opt=C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../libexec/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\DANIYA~1.HAS\\AppData\\Local\\Temp\\cco76Pya.res] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
+          arg [-plugin-opt=-pass-through=-ladvapi32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lshell32] ==> ignore
+          arg [-plugin-opt=-pass-through=-luser32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-liconv] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [--sysroot=C:/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64] ==> ignore
+          arg [-m] ==> ignore
+          arg [i386pep] ==> ignore
+          arg [-Bdynamic] ==> search dynamic
+          arg [-o] ==> ignore
+          arg [cmTC_e09e0.exe] ==> ignore
+          arg [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
+          arg [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> obj [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
+          arg [-LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0]
+          arg [-LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc] ==> dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc]
+          arg [-LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib]
+          arg [-LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib] ==> dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib]
+          arg [-LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib] ==> dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib]
+          arg [-LC:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..]
+          arg [-v] ==> ignore
+          arg [--whole-archive] ==> ignore
+          arg [CMakeFiles\\cmTC_e09e0.dir/objects.a] ==> ignore
+          arg [--no-whole-archive] ==> ignore
+          arg [--out-implib] ==> ignore
+          arg [libcmTC_e09e0.dll.a] ==> ignore
+          arg [--major-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [--minor-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lgcc_eh] ==> lib [gcc_eh]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lpthread] ==> lib [pthread]
+          arg [-ladvapi32] ==> lib [advapi32]
+          arg [-lshell32] ==> lib [shell32]
+          arg [-luser32] ==> lib [user32]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-liconv] ==> lib [iconv]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lgcc_eh] ==> lib [gcc_eh]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> obj [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        linker tool for 'C': ../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https:/github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe
+        remove lib [gcc_eh]
+        remove lib [msvcrt]
+        remove lib [gcc_eh]
+        remove lib [msvcrt]
+        collapse obj [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/lib/crt2.o]
+        collapse obj [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
+        collapse obj [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        collapse library dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0]
+        collapse library dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc]
+        collapse library dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib]
+        collapse library dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib]
+        implicit libs: [mingw32;gcc;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;iconv;mingw32;gcc;mingwex;kernel32]
+        implicit objs: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/lib/crt2.o;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        implicit dirs: [C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc/x86_64-w64-mingw32/15.2.0;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib/gcc;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/x86_64-w64-mingw32/lib;C:/Users/daniyal.hassan/scoop/apps/mingw/15.2.0-rt_v13-rev0/lib]
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the C compiler's linker: "../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https:/github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe" "-v"
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the C compiler's linker: "../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https:/github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe" "-V"
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "C:/Users/daniyal.hassan/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the C compiler's linker: "../src/gcc-15.2.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64 --enable-host-shared --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-mingw-wildcard --enable-fully-dynamic-string --enable-version-specific-runtime-libs --enable-libstdcxx-filesystem-ts=yes --disable-libssp --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/buildroot/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-Builds project' --with-bugurl=https:/github.com/niXman/mingw-builds LD_FOR_TARGET=/c/buildroot/x86_64-1520-posix-seh-ucrt-rt_v13-rev0/mingw64/bin/ld.exe" "--version"
+      
+...

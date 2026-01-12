@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-subbuild/CMakeFiles/llhttp-populate"
+		},
+		{
+			"file" : "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-subbuild/CMakeFiles/llhttp-populate.rule"
+		},
+		{
+			"file" : "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-subbuild/CMakeFiles/llhttp-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-subbuild/llhttp-populate-prefix/src/llhttp-populate-stamp/llhttp-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-subbuild/llhttp-populate-prefix/src/llhttp-populate-stamp/llhttp-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-subbuild/llhttp-populate-prefix/src/llhttp-populate-stamp/llhttp-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-subbuild/llhttp-populate-prefix/src/llhttp-populate-stamp/llhttp-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-subbuild/llhttp-populate-prefix/src/llhttp-populate-stamp/llhttp-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-subbuild/llhttp-populate-prefix/src/llhttp-populate-stamp/llhttp-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-subbuild/llhttp-populate-prefix/src/llhttp-populate-stamp/llhttp-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-subbuild/llhttp-populate-prefix/src/llhttp-populate-stamp/llhttp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"llhttp-populate"
+		],
+		"name" : "llhttp-populate"
+	}
+}

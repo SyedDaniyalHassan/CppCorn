@@ -1,0 +1,82 @@
+[
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe -DFMT_SHARED @CMakeFiles/cppcorn.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -std=gnu++2a -o CMakeFiles\\cppcorn.dir\\src\\asgi\\bridge.cpp.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\src\\asgi\\bridge.cpp",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/src/asgi/bridge.cpp"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe -DFMT_SHARED @CMakeFiles/cppcorn.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -std=gnu++2a -o CMakeFiles\\cppcorn.dir\\src\\core\\event_loop.cpp.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\src\\core\\event_loop.cpp",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/src/core/event_loop.cpp"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe -DFMT_SHARED @CMakeFiles/cppcorn.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -std=gnu++2a -o CMakeFiles\\cppcorn.dir\\src\\core\\socket.cpp.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\src\\core\\socket.cpp",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/src/core/socket.cpp"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe -DFMT_SHARED @CMakeFiles/cppcorn.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -std=gnu++2a -o CMakeFiles\\cppcorn.dir\\src\\http\\connection.cpp.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\src\\http\\connection.cpp",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/src/http/connection.cpp"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe -DFMT_SHARED @CMakeFiles/cppcorn.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -std=gnu++2a -o CMakeFiles\\cppcorn.dir\\src\\http\\parser.cpp.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\src\\http\\parser.cpp",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/src/http/parser.cpp"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe -DFMT_SHARED @CMakeFiles/cppcorn.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -std=gnu++2a -o CMakeFiles\\cppcorn.dir\\src\\http\\server.cpp.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\src\\http\\server.cpp",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/src/http/server.cpp"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe -DFMT_SHARED @CMakeFiles/cppcorn.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -std=gnu++2a -o CMakeFiles\\cppcorn.dir\\src\\main.cpp.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\src\\main.cpp",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/src/main.cpp"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe -DFMT_SHARED @CMakeFiles/cppcorn.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -std=gnu++2a -o CMakeFiles\\cppcorn.dir\\src\\server.cpp.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\src\\server.cpp",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/src/server.cpp"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DFMT_SHARED @CMakeFiles/cppcorn.dir/includes_C.rsp -g -Wall -Wextra -Wpedantic -o CMakeFiles\\cppcorn.dir\\_deps\\llhttp-src\\src\\api.c.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\build\\_deps\\llhttp-src\\src\\api.c",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-src/src/api.c"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DFMT_SHARED @CMakeFiles/cppcorn.dir/includes_C.rsp -g -Wall -Wextra -Wpedantic -o CMakeFiles\\cppcorn.dir\\_deps\\llhttp-src\\src\\http.c.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\build\\_deps\\llhttp-src\\src\\http.c",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-src/src/http.c"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -DFMT_SHARED @CMakeFiles/cppcorn.dir/includes_C.rsp -g -Wall -Wextra -Wpedantic -o CMakeFiles\\cppcorn.dir\\_deps\\llhttp-src\\src\\llhttp.c.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\build\\_deps\\llhttp-src\\src\\llhttp.c",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-src/src/llhttp.c"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/fmt-build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe -DFMT_LIB_EXPORT -Dfmt_EXPORTS @CMakeFiles/fmt.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\fmt.dir\\src\\format.cc.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\build\\_deps\\fmt-src\\src\\format.cc",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/fmt-src/src/format.cc"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/fmt-build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\g++.exe -DFMT_LIB_EXPORT -Dfmt_EXPORTS @CMakeFiles/fmt.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\fmt.dir\\src\\os.cc.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\build\\_deps\\fmt-src\\src\\os.cc",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/fmt-src/src/os.cc"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -Dllhttp_shared_EXPORTS @CMakeFiles/llhttp_shared.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\llhttp_shared.dir\\src\\llhttp.c.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\build\\_deps\\llhttp-src\\src\\llhttp.c",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-src/src/llhttp.c"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -Dllhttp_shared_EXPORTS @CMakeFiles/llhttp_shared.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\llhttp_shared.dir\\src\\http.c.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\build\\_deps\\llhttp-src\\src\\http.c",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-src/src/http.c"
+},
+{
+  "directory": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-build",
+  "command": "C:\\Users\\daniyal.hassan\\scoop\\apps\\mingw\\current\\bin\\gcc.exe -Dllhttp_shared_EXPORTS @CMakeFiles/llhttp_shared.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\llhttp_shared.dir\\src\\api.c.obj -c C:\\Users\\daniyal.hassan\\CLionProjects\\cppcorn\\build\\_deps\\llhttp-src\\src\\api.c",
+  "file": "C:/Users/daniyal.hassan/CLionProjects/cppcorn/build/_deps/llhttp-src/src/api.c"
+}
+]
