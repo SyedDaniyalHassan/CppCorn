@@ -1,0 +1,41 @@
+# CMake
+/build/
+/cmake-build-debug/
+/cmake-build-release/
+/out/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+
+# Compiled Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyd
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project specific
+/cppcorn.exe
+/python/worker.log
